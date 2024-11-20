@@ -215,6 +215,18 @@ ul.task-list input[type="checkbox"] {
   margin-right: 1rem;
 }
 
+.scrollable-news-container {
+  max-height: 300px; /* Set a fixed height for the container */
+  overflow-y: scroll; /* Enable vertical scrolling if content overflows */
+  border: 1px solid #ddd; /* Optional: Add a border for better visual separation */
+  padding: 10px; /* Optional: Add padding inside the container */
+}
+
+.news-item {
+  margin-bottom: 15px; /* Add spacing between news items */
+}
+
+
 @media (min-width: 576px) {
   .profile {
     width: 30%;
@@ -383,7 +395,7 @@ ul.task-list input[type="checkbox"] {
   text-align: center;
 
   .contact-icons {
-    font-size: 4rem;
+    font-size: 2.5rem;
 
     a {
       i::before {
@@ -1304,3 +1316,62 @@ ninja-keys::part(ninja-input-wrapper) {
   background-color: var(--global-theme-color);
   color: var(--global-text-color);
 }
+
+
+//adding the background design
+//design - 1
+body {
+  margin: 0;
+  min-height: 100vh;
+  // background-color: #f4f2f2;
+  background-image: 
+    radial-gradient(#e1e1e1 1px, transparent 1px),
+    radial-gradient(#e1e1e1 1px, transparent 1px);
+  background-size: 50px 50px;
+  background-position: 0 0, 25px 25px;
+  position: relative;
+  // removed overflow: hidden
+
+  &::before {
+    content: "";
+    position: fixed; // changed from absolute to fixed
+    width: 200%;
+    height: 200%;
+    top: -50%;
+    left: -50%;
+    z-index: -1;
+    background-image: 
+      linear-gradient(45deg, #dbd8d8 25%, transparent 25%),
+      linear-gradient(-45deg, #d6d5d5 25%, transparent 25%),
+      linear-gradient(45deg, transparent 75%, #f5f5f5 75%),
+      linear-gradient(-45deg, transparent 75%, #f5f5f5 75%);
+    background-size: 60px 60px;
+    background-position: 0 0, 0 30px, 30px -30px, -30px 0px;
+    opacity: 0.1;
+    animation: slide 360s linear infinite;
+    pointer-events: none; // added to ensure clicks pass through
+  }
+}
+
+@keyframes slide {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+//design - 2
+
+// body {
+//   margin: 0;
+//   min-height: 100vh;
+//   background: linear-gradient(
+//     to bottom right,
+//     #f1d8d8,
+//     #deedfc,
+//     #fce2e2
+//   );
+// }
+
