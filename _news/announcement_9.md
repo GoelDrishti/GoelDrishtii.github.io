@@ -5,5 +5,4 @@ inline: true
 related_posts: false
 ---
 
-
-Recorded over 25 songs over the past year as part of the *"Global Children's Diversity Drive Initiative"* based in Agra. [Listen to the recordings here]().
+Recorded over 25 songs over the past year as part of the _"Global Children's Diversity Drive Initiative"_ based in Agra. [Listen to the recordings here]().

@@ -5,5 +5,4 @@ inline: true
 related_posts: false
 ---
 
-*Book Release*: Defy Your Gravity - Rise Above Challenges and Embrace Your True Potential
-
+_Book Release_: Defy Your Gravity - Rise Above Challenges and Embrace Your True Potential

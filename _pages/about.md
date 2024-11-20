@@ -15,19 +15,18 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a Predoctoral Research Fellow at Microsoft's [M365 Research team](https://www.microsoft.com/en-us/research/group/m365-research/), advised by [Supriyo Ghosh](https://www.microsoft.com/en-us/research/people/supriyoghosh/) and [Chetan Bansal](https://www.microsoft.com/en-us/research/people/chetanb/). Here, my work focuses on advancing cloud system reliability by driving innovations using large language models (LLMs) and smaller language models (SLMs), to enhance operational efficiency and root cause analysis of complex incidents. My current research work in these areas has culminated in publications at top-tier venues and has also been adopted by over 150 teams, and **projected to scale over 500 teams at Microsoft**. 
+I am a Predoctoral Research Fellow at Microsoft's [M365 Research team](https://www.microsoft.com/en-us/research/group/m365-research/), advised by [Supriyo Ghosh](https://www.microsoft.com/en-us/research/people/supriyoghosh/) and [Chetan Bansal](https://www.microsoft.com/en-us/research/people/chetanb/). Here, my work focuses on advancing cloud system reliability by driving innovations using large language models (LLMs) and smaller language models (SLMs), to enhance operational efficiency and root cause analysis of complex incidents. My current research work in these areas has culminated in publications at top-tier venues and has also been adopted by over 150 teams, and **projected to scale over 500 teams at Microsoft**.
 
 Previously, I completed my bachelors in Electrical and Computer Science from the Dayalbagh Educational Institute, where I was fortuante to have worked with and mentored by [Prof. C. Patvardhan](https://www.dei.ac.in/dei/engineering/index.php/2012-12-08-09-23-43/electrical-engg-faculty/17-electrical-engineering-faculty/67-prof-c-patvardhan), [Swathi Swaminathan](https://swathiswaminathan.com/) from the [Grahn Lab](https://www.jessicagrahn.com/), [Lt. Prof. Hansraj K.](https://scholar.google.com/citations?user=OuoIxxoAAAAJ) and [Dr. V. Prem Prakash](https://www.dei.ac.in/dei/engineering/index.php/2012-12-08-09-23-43/electrical-engg-faculty/17-electrical-engineering-faculty/64-mr-v-prem-prakash)
 
 My current research interests are as follows:
+
 - Large Language Models (LLMs) and Domain-Specific AI Adaptations
 - Health-AI and Responsible AI in Real-World Applications
 - AI for Software Engineering and Developer Productivity
 - Human-centered Artificial Intelligence
-  
+
 I am particularly excited about the transformative era of artificial intelligence which we are witnessing, and want to make these technologies human-centered, and extend these to real-world applications in the industry, academia and society.
-
-
 
 <div style="text-align: center;">
 <!-- <hr style="border: 1px solid #000; width: 100%; margin: 10px auto;"> -->
@@ -63,4 +62,3 @@ I am particularly excited about the transformative era of artificial intelligenc
   </table>
 </div>
 <hr style="border: 0; border-top: 1px solid rgba(0, 0, 0, 0.1); width: 100%; margin: 10px auto;">
-

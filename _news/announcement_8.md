@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Presented my independent research work with [Vaibhav Ganatra](https://ganatra-v.github.io/) at the [*Machine learning for Healthcare*](https://www.mlforhc.org/2024-conference) (MLHC) conference, *University of Toronto*, Canada
+Presented my independent research work with [Vaibhav Ganatra](https://ganatra-v.github.io/) at the [_Machine learning for Healthcare_](https://www.mlforhc.org/2024-conference) (MLHC) conference, _University of Toronto_, Canada
