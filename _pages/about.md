@@ -33,16 +33,16 @@ I am particularly excited about the transformative era of artificial intelligenc
   <table border="0" cellpadding="0" cellspacing="0" style="margin: 0; padding: 0;">
     <tr>
       <td align="center" style="width: 200px; height: 150px;">
-        <img src="assets/img/microsoft_logo_nobg.png" style="max-width: 100%; max-height: 100px;" alt="Microsoft Logo">
+        <img src="/assets/img/microsoft_logo_nobg.png" style="max-width: 100%; max-height: 100px;" alt="Microsoft Logo">
       </td>
       <td align="center" style="width: 200px; height: 150px;">
-        <img src="assets/img/mitacs_logo_nobg.png" style="max-width: 100%; max-height: 80px;" alt="Mitacs Logo">
+        <img src="/assets/img/mitacs_logo_nobg.png" style="max-width: 100%; max-height: 80px;" alt="Mitacs Logo">
       </td>
       <td align="center" style="width: 200px; height: 150px;">
-        <img src="assets/img/neenopal_logo_nobg.png" style="max-width: 100%; max-height: 150px; max-width: 300px;" alt="neenopal Logo">
+        <img src="/assets/img/neenopal_logo_nobg.png" style="max-width: 100%; max-height: 150px; max-width: 300px;" alt="neenopal Logo">
       </td>
       <td align="center" style="width: 200px; height: 150px;">
-        <img src="assets/img/DEI_logo_nobg.png" style="max-width: 100%; max-height: 100px; max-width: 300px;" alt="DEI Logo">
+        <img src="/assets/img/DEI_logo_nobg.png" style="max-width: 100%; max-height: 100px; max-width: 300px;" alt="DEI Logo">
       </td>
     </tr>
 <hr style="border: 0; border-top: 1px solid rgba(0, 0, 0, 0.1); width: 100%; margin: 10px auto;">
